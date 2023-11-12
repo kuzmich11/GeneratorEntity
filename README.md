@@ -1,0 +1,2 @@
+# GeneratorEntity
+Генератор сущностей doctrine
